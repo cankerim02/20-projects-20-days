@@ -6,10 +6,9 @@
 
  ##### Description:
 
- I will do mini-projects every day with HTML, CSS, JS languages and sometimes I will make
- improvements by taking advantage of other people's code.
+ I will work on mini-projects using the HTML, CSS, JS languages every day. Sometimes, I will also make improvements by utilizing other people's code.
 
- - ###### I believe that at the end of 50 days there will be good things here.
+ - ###### I believe that at the end of 50 days, there will be significant progress here.
 
 | # | Project |
 | ------ | ------ |
