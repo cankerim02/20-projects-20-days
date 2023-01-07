@@ -1,6 +1,6 @@
 
 
- # 50 Projects in 50 Days - HTML/CSS and JavaScript
+ # 20 Projects in 20 Days - HTML/CSS and JavaScript
 
 
 
