@@ -13,4 +13,5 @@
 | # | Project |
 | ------ | ------ |
 | 01 | [Expanding Card](https://github.com/cankerim02/50-projects-50-days/tree/master/expanding-cards "Expanding Card")|
+| 02 | [Progress-steps Bar](https://github.com/cankerim02/50-projects-50-days/tree/master/expanding-cards "Progress-steps Bar")|
 
