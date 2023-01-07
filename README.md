@@ -8,7 +8,7 @@
 
  I will work on mini-projects using the HTML, CSS, JS languages every day. Sometimes, I will also make improvements by utilizing other people's code.
 
- - ###### I believe that at the end of 50 days, there will be significant progress here.
+ - ###### I believe that at the end of 20 days, there will be significant progress here.
 
 | # | Project |
 | ------ | ------ |
