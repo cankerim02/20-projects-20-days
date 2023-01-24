@@ -26,11 +26,35 @@ body {
 .container h1 {
     text-align: center;
     margin-bottom: 30px;
+    
+}
+
+.container p {
+    letter-spacing: 0.5px;
 }
 
 .container a {
     text-decoration: none;
     color: #057ea7;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}
+
+.container .remember {
+    letter-spacing: 1px;
+    margin-top: 13px;
+}
+
+.fa-solid {
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    margin-top: 0 20px;
+
 }
 
 .btn {
@@ -79,6 +103,7 @@ body {
     outline: 0;
     border-bottom-color: lightblue;
 }
+
 
 .form-control label {
     position: absolute;
