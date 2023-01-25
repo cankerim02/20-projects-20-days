@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
 
-
 * {
     box-sizing: border-box;
 }
@@ -17,7 +16,6 @@ body{
     overflow: hidden;
     margin: 0;
 }
-
 
 .btn {
     background-color:darkkhaki;
