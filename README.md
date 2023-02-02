@@ -22,5 +22,7 @@
 | 08 | [Sound-Board](https://github.com/cankerim02/20-projects-20-days/tree/master/sound-board "Sound-Board")| 
 | 09 | [Theme Clock](https://github.com/cankerim02/20-projects-20-days/tree/master/Theme%20Clock "Theme Clock")| 
 | 10 | [Content-Placeholder](https://github.com/cankerim02/20-projects-20-days/tree/master/Content-placeholder "Content-placeholder")| 
-| 11 | [Change Background-color](https://github.com/cankerim02/20-projects-20-days/tree/master/change-color-background "Theme Clock")| 
+| 11 | [Change Background-color](https://github.com/cankerim02/20-projects-20-days/tree/master/change-color-background "Change Background-color")| 
+| 12 | [İmage gallery](https://github.com/cankerim02/20-projects-20-days/tree/master/%C4%B0mage%20gallery "İmage gallery")| 
+| 13 | [Random-Quotes-Generator](https://github.com/cankerim02/20-projects-20-days/tree/master/Random-quotes-generator "Random-Quotes-Generator")| 
 
