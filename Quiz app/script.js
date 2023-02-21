@@ -51,15 +51,17 @@ let score = 0
 loadQuiz()
 
 function loadQuiz() {
-    deselectAnswers()
+    deselectAnswers() // Cevap seçimini temizler
     
     const currentQuizData = quizData[currentQuiz]
-
-    questionEl.innerText = currentQuizData.question
-    a_text.innerText = currentQuizData.a
-    b_text.innerText = currentQuizData.b
-    c_text.innerText = currentQuizData.c
-    d_text.innerText = currentQuizData.d
+    
+    // Cevap seçeneklerini rastgele sıraya getir
+    const answerOptions = [currentQuizData.a, currentQuizData.b, currentQuizData.c, currentQuizData.d];
+    answerOptions.sort(() => Math.random() - 0.5);
+    a_text.innerText = answerOptions[0];
+    b_text.innerText = answerOptions[1];
+    c_text.innerText = answerOptions[2];
+    d_text.innerText = answerOptions[3];
 }
 
 function deselectAnswers() {
