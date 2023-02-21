@@ -55,13 +55,15 @@ function loadQuiz() {
     
     const currentQuizData = quizData[currentQuiz]
     
-    // Cevap seçeneklerini rastgele sıraya getir
-    const answerOptions = [currentQuizData.a, currentQuizData.b, currentQuizData.c, currentQuizData.d];
-    answerOptions.sort(() => Math.random() - 0.5);
-    a_text.innerText = answerOptions[0];
-    b_text.innerText = answerOptions[1];
-    c_text.innerText = answerOptions[2];
-    d_text.innerText = answerOptions[3];
+    // Cevap seçeneklerini rastgele sıraya getir, doğru cevapları da random olarak verdiği için yanlış kabul edecekt.
+    /* const answerOptions = [currentQuizData.a, currentQuizData.b, currentQuizData.c, currentQuizData.d];
+    answerOptions.sort(() => Math.random() - 0.5); */
+
+    questionEl.innerText = currentQuizData.question
+    a_text.innerText = currentQuizData.a
+    b_text.innerText = currentQuizData.b
+    c_text.innerText = currentQuizData.c
+    d_text.innerText = currentQuizData.d
 }
 
 function deselectAnswers() {
